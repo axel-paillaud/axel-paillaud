@@ -1,4 +1,4 @@
-Bienvenue sur le profil de **Shaun-maker** ! Ici est affiché tous les cours que j'ai terminé.
+Bienvenue sur le profil de **Shaun-maker** ! Ici est affiché tous mes 'achievements'.
 
 - learn enough to be dangerous tutorials:
 
