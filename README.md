@@ -1,4 +1,4 @@
-Bienvenue sur le profil de **Shaun-maker** ! Ici est affiché tous mes 'achievements'.
+Bienvenue sur le profil de **Shaun-maker** !
 
 - learn enough to be dangerous tutorials:
 
@@ -6,3 +6,5 @@ Bienvenue sur le profil de **Shaun-maker** ! Ici est affiché tous mes 'achievem
 
 - CS50x 2022
 - Programme en C de gestion de notes dans le terminal
+
+<a href="https://cs50.harvard.edu/certificates/112861f0-060f-4aae-b343-5475a52ec75e">CS50x Certificate</a>
