@@ -1,4 +1,4 @@
-Bienvenue sur le profil de **Shaun-maker** !
+Bienvenue sur mon profil !
 
 - <a href="https://cs50.harvard.edu/certificates/112861f0-060f-4aae-b343-5475a52ec75e">CS50x Certificate</a>
 
